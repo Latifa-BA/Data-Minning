@@ -2,6 +2,6 @@
 
 
 #Certification
-Cleaning Data In python
-Linear Classifiers in Python
-Cluster Analysis
+1. Cleaning Data In python
+2. Linear Classifiers in Python
+3. Cluster Analysis
