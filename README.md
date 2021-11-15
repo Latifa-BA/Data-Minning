@@ -1,7 +1,1 @@
-# Data-Minning
-
-
-#Certification
-1. Cleaning Data In python
-2. Linear Classifiers in Python
-3. Cluster Analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Latifa-BA/Data-Minning/HEAD)
